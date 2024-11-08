@@ -10,12 +10,18 @@ def generate_training_plan(starting_mileage, goal_distance, weeks, taper_weeks=3
 
     for week in range(1, weeks + 1):
         # Apply taper for the last `taper_weeks` weeks
+        # Apply taper for the last `taper_weeks` weeks
         if week > taper_start:
             weekly_mileage *= 0.8  # Reduce mileage by 20% each taper week
-        else:
+        elif weekly_mileage < goal_distance:
             weekly_mileage *= 1.10  # Increase by 10% each week until taper
+            if weekly_mileage > goal_distance:
+                weekly_mileage = goal_distance # Increase by 10% each week until taper
 
-
+        long_run = weekly_mileage * 0.4    # Long run is 40% of weekly mileage
+        tempo_run = weekly_mileage * 0.2   # Tempo run is 20% of weekly mileage
+        easy_runs_total = weekly_mileage - (long_run + tempo_run)
+        easy_run = easy_runs_total / 3     #
         # Add the weekly plan, rounding to the nearest 0.5
         plan.append({
             "week": week,
