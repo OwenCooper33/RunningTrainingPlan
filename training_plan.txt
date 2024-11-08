@@ -1,0 +1,100 @@
+Week 1, 11.0 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 2, 12.0 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 3, 13.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 4, 14.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 5, 16.0 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 6, 17.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 7, 19.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 8, 21.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 9, 23.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 10, 26.0 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 11, 28.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 12, 31.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 13, 34.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 14, 38.0 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 15, 42.0 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 16, 46.0 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 17, 50.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 18, 40.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 19, 32.5 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
+Week 20, 26.0 miles:
+  Long run: 4.0 miles
+  Tempo run: 2.0 miles
+  Easy runs: 1.5 miles each
+
